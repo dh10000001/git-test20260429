@@ -1,5 +1,5 @@
 
 2test，second commit +master test
 
-hotfix test
+hotfix test +hot-fix test
 
